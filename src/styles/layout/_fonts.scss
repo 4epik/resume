@@ -6,3 +6,30 @@
   font-style: normal;
 
 }
+
+@font-face {
+  font-family: "MyriadPro";
+
+  src: url("../fonts/MyriadProbold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/MyriadProbold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MyriadPro";
+
+  src: url("../fonts/MyriadProLight.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/MyriadProLight.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: light;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MyriadPro";
+
+  src: url("../fonts/MyriadProregular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/MyriadProregular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
