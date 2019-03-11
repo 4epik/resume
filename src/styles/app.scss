@@ -1,0 +1,27 @@
+
+@import 'layout/_fonts.scss';
+@import 'layout/_variables.scss';
+@import 'layout/_mixin.scss';
+
+
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+   height: 100%;
+   width: 100%;
+   font-family: 'Roboto';
+   
+}
+
+
+
+
+@import 'common/menu';
+@import 'common/technologies';
+@import 'common/slider';
+@import 'common/intro';
+@import 'common/header';
+@import 'common/about_content';
+@import 'common/footer';
